@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarkDevil204
+- 👋 Hi, I’m Aryan Singh 
 - 👀 I’m interested in ... Data Science/Analysis, Web Development, Front-End Back-End 
 - 🌱 I’m currently learning ... Python, Java, C++ with DSA 
 - 💞️ I’m looking to collaborate on ... GeeksforGeeks, Google Kickstart 
